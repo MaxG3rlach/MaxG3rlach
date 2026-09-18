@@ -2,14 +2,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=17&duration=2200&pause=900&color=0070D1&center=true&width=760&lines=Max+Gerlach+-+Zevenbergen,+Netherlands;Tech+builder:+web+%2B+ESP32+%2B+Arduino;Flight+Coordinator+%40+Vliegend+Museum+Seppe;Press+X+to+view+my+builds)](https://github.com/MaxG3rlach)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&size=17&duration=2200&pause=900&color=0070D1&center=true&width=760&lines=Max+Gerlach+-+Zevenbergen,+Netherlands;Tech+builder:+ESP32+%2B+Arduino+%2B+web;Flight+Coordinator+%40+Vliegend+Museum+Seppe;Press+X+to+view+my+builds)](https://github.com/MaxG3rlach)
 
 [![Location](https://img.shields.io/badge/Breda-EHSE_Netherlands-000000?style=for-the-badge&logo=airplane&logoColor=white)](https://airplanephotography.nl)
-[![Builds](https://img.shields.io/badge/Builds-3_repos-0070d1?style=for-the-badge&logo=playstation&logoColor=white)](https://github.com/MaxG3rlach?tab=repositories)
+[![Builder](https://img.shields.io/badge/ESP32-Arduino_Builder-0070d1?style=for-the-badge&logo=playstation&logoColor=white)](https://github.com/MaxG3rlach/esp-vatsim)
 [![Contact](https://img.shields.io/badge/Send_Message-Email-c9a227?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgerlach0168@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=MaxG3rlach&style=for-the-badge&color=0070d1)
 
-> Real life first, tech second: I live near Breda International Airport (EHSE), I keep historic aircraft flying as volunteer Flight Coordinator, and I build web + ESP32 things at night.
+> Real life first, tech second: I live near Breda International Airport (EHSE), I keep historic aircraft flying as volunteer Flight Coordinator, and I build ESP32 + web things at night.
 
 </div>
 
@@ -30,7 +30,7 @@
 Based: Zevenbergen / Breda, Netherlands - home airport EHSE  
 Day job: volunteer Flight Coordinator at Vliegend Museum Seppe, historic aircraft  
 Photographer: warbirds, vintage, EHSE ops at [airplanephotography.nl](https://airplanephotography.nl)  
-Open for: commissions and events across Netherlands - [mgerlach0168@gmail.com](mailto:mgerlach0168@gmail.com)
+Open for: events across Netherlands - [mgerlach0168@gmail.com](mailto:mgerlach0168@gmail.com)
 
 </td>
 </tr>
@@ -42,15 +42,6 @@ Open for: commissions and events across Netherlands - [mgerlach0168@gmail.com](m
 <tr>
 <td width="50%">
 
-**PortfolioWebsite - my live site**  
-[MaxG3rlach/PortfolioWebsite](https://github.com/MaxG3rlach/PortfolioWebsite)  
-Stack: HTML 72 percent, CSS 27 percent - EN/NL toggle, gallery + lightbox  
-Live: airplanephotography.nl - 39 Pages deploys  
-I built: full design, gallery filter, language switch
-
-</td>
-<td width="50%">
-
 **esp-vatsim - my ESP32 bridge**  
 [MaxG3rlach/esp-vatsim](https://github.com/MaxG3rlach/esp-vatsim)  
 Stack: JavaScript - Vatsim API simplified for ESP32  
@@ -58,10 +49,16 @@ Does: reads live traffic, draws graphics on microcontroller
 I built: API translator + display logic
 
 </td>
+<td width="50%">
+
+**Web tinkering - HTML / CSS / JS**  
+Small live sites + gallery + lightbox builds  
+Stack: HTML, CSS, JavaScript - EN/NL toggle  
+I build: clean layouts, filters, language switch logic
+
+</td>
 </tr>
 </table>
-
-**This profile:** [MaxG3rlach/MaxG3rlach](https://github.com/MaxG3rlach/MaxG3rlach) - PS3 XMB theme README you are reading.
 
 ### Friends - Stats
 
@@ -83,7 +80,7 @@ I built: API translator + display logic
 [![Stack](https://skillicons.dev/icons?i=html,css,js,arduino,git,vscode,py,c&theme=dark)](https://skillicons.dev)
 
 *Daily: HTML - CSS - JS - Arduino ESP32 - Git - VSCode*  
-*Also: Python - C - DM Serif + DM Sans - GitHub Pages - Vatsim API*
+*Also: Python - C - GitHub Pages - Vatsim API*
 
 </div>
 
@@ -92,7 +89,7 @@ I built: API translator + display logic
 
 - Name: Max Gerlach - MaxG3rlach - Netherlands - he/him
 - Real life: Zevenbergen/Breda - EHSE airport - Vliegend Museum Seppe volunteer Flight Coordinator
-- Tech: web builder + ESP32 tinkerer - PortfolioWebsite live - esp-vatsim bridge
+- Tech: ESP32 tinkerer + web builder - esp-vatsim bridge + small sites
 - Contact: [airplanephotography.nl](https://airplanephotography.nl) - [mgerlach0168@gmail.com](mailto:mgerlach0168@gmail.com) - [repos](https://github.com/MaxG3rlach?tab=repositories)
 
 </details>
@@ -101,7 +98,7 @@ I built: API translator + display logic
 
 <div align="center">
 
-*Start: [airplanephotography.nl](https://airplanephotography.nl) - Select: [my code](https://github.com/MaxG3rlach?tab=repositories) - Message: [email me](mailto:mgerlach0168@gmail.com)*
+*Start: [photo gallery](https://airplanephotography.nl) - Select: [my code](https://github.com/MaxG3rlach?tab=repositories) - Message: [email me](mailto:mgerlach0168@gmail.com)*
 
 </div>
 

@@ -37,8 +37,6 @@ Web builds + ESP32 tinkering - open for collabs: [mgerlach0168@gmail.com](mailto
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MaxG3rlach&show_icons=true&hide_border=true&count_private=true&theme=default" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxG3rlach&layout=compact&hide_border=true&langs_count=6&theme=default" />
 <br />
 <img src="https://streak-stats.demolab.com?user=MaxG3rlach&hide_border=true&background=FFFFFF&ring=E60012&fire=FF9F00&currStreakLabel=E60012" />
 
